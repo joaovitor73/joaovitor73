@@ -18,7 +18,7 @@ I am a Systems Analysis and Development student at UFRN. Currently working with 
 - **Email**: joaovictor73307@gmail.com
 - **LinkedIn**: [linkedin.com/in/joaovitor73](https://www.linkedin.com/in/joaovitor73/)
 - **Lattes**: https://lattes.cnpq.br/4153904824932853
-- ** ORCID**: https://orcid.org/0009-0002-5489-2764
+- **ORCID**: https://orcid.org/0009-0002-5489-2764
 
 ### Visitor Count
 <p align="center">
